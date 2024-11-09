@@ -18,7 +18,7 @@ O projeto tem como objetivo criar um ambiente educacional inclusivo que apoie as
 
 ## Público-Alvo
 
-O projeto é destinado a escolas e instituições de ensino especializadas em educação inclusiva para crianças neurodivergentes. Educadores, pais e terapeutas podem utilizar o aplicativo para acompanhar o desenvolvimento das crianças.
+O projeto é destinado a escolas e instituições de ensino especializadas em educação inclusiva para crianças neurodivergentes.
 
 ## Requisitos
 
